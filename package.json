@@ -1,0 +1,32 @@
+{
+  "name": "YoToSlack",
+  "version": "1.0.0",
+  "description": "Yo location to slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "yo",
+    "slack"
+  ],
+  "author": "Shuto Mikami",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^0.19.1",
+    "koa-qs": "^2.0.0",
+    "koa-router": "^4.3.2",
+    "q": "^1.2.0",
+    "request": "^2.55.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kakenn/yo_to_slack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kakenn/yo_to_slack/issues"
+  },
+  "homepage": "https://github.com/kakenn/yo_to_slack"
+}
